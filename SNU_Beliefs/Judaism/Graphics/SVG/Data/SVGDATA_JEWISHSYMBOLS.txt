@@ -1,0 +1,8 @@
+SVG Data for Jewish symbols
+
+Star of david.svg
+260x300
+Ten commandments.svg
+205x243
+Menorah.svg
+732x621
