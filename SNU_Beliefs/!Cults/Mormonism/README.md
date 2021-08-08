@@ -1,8 +1,10 @@
 
 ***
 
-# Subject for removal/move
+# Mirrored
 
-Mormonism is a cult. It will be moved to the Cult section when it becomes technically possible for me to move binary files on GitHub, or it might be done manually.
+The decision for removal is still ongoing, but the Mormonism area has been moved to the cults section.
+
+[Click/tap here to see the original](/SNU_Beliefs/Mormon/)
 
 ***
