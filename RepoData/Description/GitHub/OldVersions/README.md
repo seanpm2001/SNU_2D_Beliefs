@@ -1,0 +1,1 @@
+The belief center for SNU, a place to safely discuss religion and irreligion. This build is required in certain SNU distributions. Learn how to build SNU here: https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de
