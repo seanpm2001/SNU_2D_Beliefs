@@ -2,7 +2,7 @@
 //// SNU_2D_Beliefs_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU (2D Mode) Beliefs project repositories by @seanpm2001
-//// As of 2024, Tuesday, November 19th
+//// As of 2024, Wednesday, November 20th
 
 //// ----------------------------------------------------- \\\\
 //// SNU 2D Beliefs Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/SNU_2D_Beliefs
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (5)
+//// Modules (7)
 
 //// Agnosticism (1)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Agnosticism
@@ -30,21 +30,27 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Christianity
 //// Jainism (1)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Jainism
 
+//// Baháʼísm (1)
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Baha-i-ism
+
+//// Judaism (1)
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Judaism
+
 //// ----------------------------------------------------- \\\\
 
 //// SNU 2D Beliefs Documentation (1)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs): 7
-//// 1+5(1+1+1+1+1)+1=7
+//// Total repo count (SNU 2D Beliefs): 9
+//// 1+7(1+1+1+1+1+1+1)+1=9
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2024, Tuesday, November 19th at 07:23 pm PST)
-//// Line count (including blank lines and compiler line): 51
+//// File version: 4 (2024, Wednesday, November 20th at 07:50 pm PST)
+//// Line count (including blank lines and compiler line): 57
 //// ----------------------------------------------------- \\\\
 
 //// End of file
