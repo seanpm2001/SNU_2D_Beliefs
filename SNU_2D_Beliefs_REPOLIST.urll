@@ -2,7 +2,7 @@
 //// SNU_2D_Beliefs_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU (2D Mode) Beliefs project repositories by @seanpm2001
-//// As of 2024, Friday, November 22nd
+//// As of 2024, Monday, November 25th
 
 //// ----------------------------------------------------- \\\\
 //// SNU 2D Beliefs Project
@@ -48,19 +48,28 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Sikhism
 //// Mormonism (1)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Mormonism
 
+//// (Cult) Scientology (1)
+
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Scientology
+
+//// (Cult) Ancient Egyptian Religion (1)
+
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt
+
 //// ----------------------------------------------------- \\\\
 
 //// SNU 2D Beliefs Documentation (1)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs): 13
-//// 1+11(1+1+1+1+1+1+1+1+1+1+1)+1=13
+//// Total repo count (SNU 2D Beliefs): 15
+//// 1+13(1+1+1+1+1+1+1+1+1+1+1+1+1)+1=15
 //// ----------------------------------------------------- \\\\
 
 //// See also (34):
 
 //// All roads will lead to Rome
+//// Linking to other projects that are loosely to highly related to religion.
 
 //// Santa Software Suite (20)
 
@@ -130,8 +139,8 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 6 (2024, Friday, November 22nd at 07:28 pm PST)
-//// Line count (including blank lines and compiler line): 138
+//// File version: 7 (2024, Monday, November 25th at 08:52 pm PST)
+//// Line count (including blank lines and compiler line): 147
 //// ----------------------------------------------------- \\\\
 
 //// End of file
