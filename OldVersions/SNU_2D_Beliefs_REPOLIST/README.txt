@@ -13,17 +13,19 @@ https://github.com/seanpm2001/SNU_2D_Beliefs
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (13)
+//// Modules (17)
 
 //// Agnosticism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Agnosticism
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Agnosticism_Docs
 
-//// Atheism (1)
+//// Atheism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Atheism
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Atheism_Docs
 
-//// Buddhism (1)
+//// Buddhism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Buddhism
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Buddhism_Docs
 
 //// Christianity (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Christianity
@@ -64,8 +66,8 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt
 https://github.com/seanpm2001/SNU_2D_Beliefs_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs): 17
-//// 1+15(2+1+1+2+1+1+1+1+1+1+1+1+1)+1=18
+//// Total repo count (SNU 2D Beliefs): 19
+//// 1+17(2+2+2+2+1+1+1+1+1+1+1+1+1)+1=19
 //// ----------------------------------------------------- \\\\
 
 //// See also (34):
@@ -134,15 +136,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs and related projects): 51
-//// 20+1+3+2+2+4+2+2=34+17=51
+//// Total repo count (SNU 2D Beliefs and related projects): 53
+//// 20+1+3+2+2+4+2+2=34+19=53
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 8 (2024, Wednesday, November 27th at 08:17 pm PST)
-//// Line count (including blank lines and compiler line): 149
+//// File version: 9 (2024, Thursday, November 28th at 07:29 pm PST)
+//// Line count (including blank lines and compiler line): 151
 //// ----------------------------------------------------- \\\\
 
 //// End of file
