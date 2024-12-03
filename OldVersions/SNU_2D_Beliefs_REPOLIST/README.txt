@@ -2,7 +2,7 @@
 //// SNU_2D_Beliefs_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU (2D Mode) Beliefs project repositories by @seanpm2001
-//// As of 2024, Wednesday, November 27th
+//// As of 2024, Monday, December 2nd
 
 //// ----------------------------------------------------- \\\\
 //// SNU 2D Beliefs Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/SNU_2D_Beliefs
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (17)
+//// Modules (19)
 
 //// Agnosticism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Agnosticism
@@ -31,11 +31,13 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Buddhism_Docs
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Christianity
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Christianity_Docs
 
-//// Jainism (1)
+//// Jainism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Jainism
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Jainism_Docs
 
-//// Baháʼísm (1)
+//// Baháʼísm (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Baha-i-ism
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Baha-i-ism_Docs
 
 //// Judaism (1)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Judaism
@@ -66,11 +68,11 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt
 https://github.com/seanpm2001/SNU_2D_Beliefs_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs): 19
-//// 1+17(2+2+2+2+1+1+1+1+1+1+1+1+1)+1=19
+//// Total repo count (SNU 2D Beliefs): 21
+//// 1+19(2+2+2+2+2+2+1+1+1+1+1+1+1)+1=21
 //// ----------------------------------------------------- \\\\
 
-//// See also (34):
+//// See also (35):
 
 //// All roads will lead to Rome
 //// Linking to other projects that are loosely to highly related to religion.
@@ -98,9 +100,10 @@ https://github.com/seanpm2001/SSS_ProgrammerTidbits
 https://github.com/seanpm2001/SSS_FlightTracker
 https://github.com/seanpm2001/Santa_Software_Suite_Core
 
-//// IsraeLinux (1)
+//// IsraeLinux (2)
 
 https://github.com/seanpm2001/IsraeLinux
+https://github.com/seanpm2001/IsraeLinux_Docs
 
 ///// Israel (3)
 
@@ -136,15 +139,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs and related projects): 53
-//// 20+1+3+2+2+4+2+2=34+19=53
+//// Total repo count (SNU 2D Beliefs and related projects): 56
+//// 20+1+3+2+2+4+2+2=35+21=56
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 9 (2024, Thursday, November 28th at 07:29 pm PST)
-//// Line count (including blank lines and compiler line): 151
+//// File version: 10 (2024, Monday, December 2nd at 10:32 pm PST)
+//// Line count (including blank lines and compiler line): 154
 //// ----------------------------------------------------- \\\\
 
 //// End of file
