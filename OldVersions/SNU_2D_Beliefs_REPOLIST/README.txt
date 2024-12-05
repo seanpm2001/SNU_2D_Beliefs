@@ -2,7 +2,7 @@
 //// SNU_2D_Beliefs_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU (2D Mode) Beliefs project repositories by @seanpm2001
-//// As of 2024, Tuesday, December 3rd
+//// As of 2024, Wednesday, December 4th
 
 //// ----------------------------------------------------- \\\\
 //// SNU 2D Beliefs Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/SNU_2D_Beliefs
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (20)
+//// Modules (22)
 
 //// Agnosticism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Agnosticism
@@ -43,11 +43,13 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Baha-i-ism_Docs
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Judaism
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Judaism_Docs
 
-//// Islam (1)
+//// Islam (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Islam
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Islam_Docs
 
-//// Hinduism (1)
+//// Hinduism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Hinduism
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Hinduism_Docs
 
 //// Sikhism (1)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Sikhism
@@ -69,8 +71,8 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt
 https://github.com/seanpm2001/SNU_2D_Beliefs_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs): 22
-//// 1+20(2+2+2+2+2+2+2+1+1+1+1+1+1)+1=22
+//// Total repo count (SNU 2D Beliefs): 24
+//// 1+22(2+2+2+2+2+2+2+2+2+1+1+1+1)+1=24
 //// ----------------------------------------------------- \\\\
 
 //// See also (35):
@@ -140,15 +142,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs and related projects): 57
-//// 20+1+3+2+2+4+2+2=35+22=57
+//// Total repo count (SNU 2D Beliefs and related projects): 59
+//// 20+1+3+2+2+4+2+2=35+24=59
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 11 (2024, Tuesday, December 3rd at 08:23 pm PST)
-//// Line count (including blank lines and compiler line): 155
+//// File version: 12 (2024, Wednesday, December 4th at 07:07 pm PST)
+//// Line count (including blank lines and compiler line): 157
 //// ----------------------------------------------------- \\\\
 
 //// End of file
