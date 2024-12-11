@@ -2,7 +2,7 @@
 //// SNU_2D_Beliefs_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU (2D Mode) Beliefs project repositories by @seanpm2001
-//// As of 2024, Monday, December 9th
+//// As of 2024, Tuesday, December 10th
 
 //// ----------------------------------------------------- \\\\
 //// SNU 2D Beliefs Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/SNU_2D_Beliefs
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (27)
+//// Modules (29)
 
 //// Agnosticism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Agnosticism
@@ -54,11 +54,13 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Hinduism_Docs
 //// Sikhism (1)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Sikhism
 
-//// Samaritanism (1)
+//// Samaritanism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Samaritanism
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Samaritanism_Docs
 
-//// Druze (1)
+//// Druze (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Druze
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Druze_Docs
 
 //// Mormonism (1)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Mormonism
@@ -78,8 +80,8 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt
 https://github.com/seanpm2001/SNU_2D_Beliefs_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs): 27
-//// 1+25(2+2+2+2+2+2+2+2+2+1+1+2+1+1+1)+1=27
+//// Total repo count (SNU 2D Beliefs): 29
+//// 1+27(2+2+2+2+2+2+2+2+2+1+1+2+2+2+1)+1=29
 //// ----------------------------------------------------- \\\\
 
 //// See also (35):
@@ -156,8 +158,8 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 14 (2024, Monday, December 9th at 08:56 pm PST)
-//// Line count (including blank lines and compiler line): 164
+//// File version: 15 (2024, Tuesday, December 10th at 07:49 pm PST)
+//// Line count (including blank lines and compiler line): 166
 //// ----------------------------------------------------- \\\\
 
 //// End of file
