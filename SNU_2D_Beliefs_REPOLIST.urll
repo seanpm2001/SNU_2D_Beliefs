@@ -2,7 +2,7 @@
 //// SNU_2D_Beliefs_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU (2D Mode) Beliefs project repositories by @seanpm2001
-//// As of 2024, Tuesday, December 10th
+//// As of 2024, Thursday, December 26th
 
 //// ----------------------------------------------------- \\\\
 //// SNU 2D Beliefs Project
@@ -14,6 +14,7 @@ https://github.com/seanpm2001/SNU_2D_Beliefs
 //// ----------------------------------------------------- \\\\
 
 //// Modules (29)
+//// Recount may be needed
 
 //// Agnosticism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Agnosticism
@@ -51,8 +52,9 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Islam_Docs
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Hinduism
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Hinduism_Docs
 
-//// Sikhism (1)
+//// Sikhism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Sikhism
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Sikhism_Docs
 
 //// Samaritanism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Samaritanism
@@ -62,8 +64,9 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Samaritanism_Docs
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Druze
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Druze_Docs
 
-//// Mormonism (1)
+//// Mormonism (2)
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Mormonism
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Mormonism_Docs
 
 //// (Cult) Scientology (2)
 
@@ -80,8 +83,8 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt
 https://github.com/seanpm2001/SNU_2D_Beliefs_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs): 29
-//// 1+27(2+2+2+2+2+2+2+2+2+1+1+2+2+2+1)+1=29
+//// Total repo count (SNU 2D Beliefs): 31
+//// 1+29(2+2+2+2+2+2+2+2+2+2+2+2+2+2+1)+1=31
 //// ----------------------------------------------------- \\\\
 
 //// See also (35):
@@ -151,15 +154,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs and related projects): 60
-//// 20+1+3+2+2+4+2+2=35+25=60
+//// Total repo count (SNU 2D Beliefs and related projects): 64
+//// 20+1+3+2+2+4+2+2=35+29=64
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 15 (2024, Tuesday, December 10th at 07:49 pm PST)
-//// Line count (including blank lines and compiler line): 166
+//// File version: 16 (2024, Thursday, December 26th at 07:38 pm PST)
+//// Line count (including blank lines and compiler line): 169
 //// ----------------------------------------------------- \\\\
 
 //// End of file
