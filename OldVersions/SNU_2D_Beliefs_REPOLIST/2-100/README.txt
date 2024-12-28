@@ -2,7 +2,7 @@
 //// SNU_2D_Beliefs_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU (2D Mode) Beliefs project repositories by @seanpm2001
-//// As of 2024, Thursday, December 26th
+//// As of 2024, Saturday, December 28th
 
 //// ----------------------------------------------------- \\\\
 //// SNU 2D Beliefs Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/SNU_2D_Beliefs
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (29)
+//// Modules (30)
 //// Recount may be needed
 
 //// Agnosticism (2)
@@ -73,9 +73,10 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Mormonism_Docs
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Scientology
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Scientology_Docs
 
-//// (Cult) Ancient Egyptian Religion (1)
+//// (Cult) Ancient Egyptian Religion (2)
 
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt_Docs
 
 //// ----------------------------------------------------- \\\\
 
@@ -83,8 +84,8 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt
 https://github.com/seanpm2001/SNU_2D_Beliefs_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs): 31
-//// 1+29(2+2+2+2+2+2+2+2+2+2+2+2+2+2+1)+1=31
+//// Total repo count (SNU 2D Beliefs): 32
+//// 1+30(2+2+2+2+2+2+2+2+2+2+2+2+2+2+1)+1=32
 //// ----------------------------------------------------- \\\\
 
 //// See also (35):
@@ -154,15 +155,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (SNU 2D Beliefs and related projects): 64
-//// 20+1+3+2+2+4+2+2=35+29=64
+//// Total repo count (SNU 2D Beliefs and related projects): 67
+//// 20+1+3+2+2+4+2+2=35+32=67
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 16 (2024, Thursday, December 26th at 07:38 pm PST)
-//// Line count (including blank lines and compiler line): 169
+//// File version: 17 (2024, Saturday, December 28th at 03:24 pm PST)
+//// Line count (including blank lines and compiler line): 170
 //// ----------------------------------------------------- \\\\
 
 //// End of file
